@@ -12,7 +12,7 @@ Install [python](https://www.python.org/downloads/) latest version for windows
 
 ### How to run the program
 
-- Browse to Justdial folder in CommandPrompt C:\JustdialSrc\Justdial
+- Browse to Justdial folder in CommandPrompt `C:\JustdialSrc\Justdial`
 - Run command `python -m pip install requests`
 - Run command `python -m pip install selenium`
 - Run command `python -m pip install bs4`
